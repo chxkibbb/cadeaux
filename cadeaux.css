@@ -1,0 +1,21 @@
+p.titre{
+    text-align: center;   
+    color: darkgoldenrod; 
+}
+body{
+    background-color: black;
+}
+p.one{
+    color: darkgoldenrod;
+}
+img.rose{
+    margin-left: 350px;
+    width: 200px;
+}
+p.onetwo{
+    text-align: center;
+    color: darkgoldenrod;
+}
+p.onetwo:hover{
+    color: aliceblue;
+}
